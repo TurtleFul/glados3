@@ -11,4 +11,3 @@ Documentation from my first ever pc Build
 ![8](8.jpg)
 ![9](9.jpg)
 
-
