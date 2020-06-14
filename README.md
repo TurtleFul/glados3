@@ -1,4 +1,4 @@
 # glados3
 Documentation from my first ever pc Build
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![1](1 - W3y2AAp - Case and other parts arrived .png)
