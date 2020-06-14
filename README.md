@@ -1,4 +1,13 @@
 # glados3
 Documentation from my first ever pc Build
 
-![1](1 - W3y2AAp - Case and other parts arrived .png)
+![1](1.jpg)
+![2](2.jpg)
+![3](3.jpg)
+![4](4.jpg)
+![5](5.jpg)
+![6](6.jpg)
+![7](7.jpg)
+![8](8.jpg)
+![9](9.jpg)
+
